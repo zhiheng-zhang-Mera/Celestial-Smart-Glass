@@ -1,0 +1,48 @@
+{
+  "version": "CSG-PROPOSAL-20261022-v2",
+  "date": "2026-10-22",
+  "artifacts": [
+    {
+      "file": "CSG_Research_Proposal_CN.docx",
+      "bytes": 427732,
+      "sha256": "8be08cb3860435ecdfd6e7e0779987d77fdfb7830b5ee2576244b3f9abcabf2c",
+      "pages_in_verified_pdf": 24,
+      "references": 37
+    },
+    {
+      "file": "CSG_Research_Proposal_CN.pdf",
+      "bytes": 1238703,
+      "sha256": "6c2c78e333ce1474eb60e011eb77cad6e0d51261f750e74bcc033352d089681d",
+      "pages_in_verified_pdf": 24,
+      "references": 37
+    },
+    {
+      "file": "CSG_Study_and_Implementation_Appendices_CN.docx",
+      "bytes": 69435,
+      "sha256": "00e62bede283bd42f362f5c1fe0e43f855f6058cd2ce132e35b7875e629dc94a",
+      "pages_in_verified_pdf": 20,
+      "references": 26
+    },
+    {
+      "file": "CSG_Study_and_Implementation_Appendices_CN.pdf",
+      "bytes": 1106974,
+      "sha256": "9c81dda64900f259fc0bd17e97b784186ac064a384cf360c18e04c6995761f95",
+      "pages_in_verified_pdf": 20,
+      "references": 26
+    },
+    {
+      "file": "CSG_Research_Overview_CN.docx",
+      "bytes": 44018,
+      "sha256": "e5d2f86db427e37286f6e5f634adf3fcd59afb3098d20ede471024409296562c",
+      "pages_in_verified_pdf": 3,
+      "references": 12
+    },
+    {
+      "file": "CSG_Research_Overview_CN.pdf",
+      "bytes": 292540,
+      "sha256": "cb70a6e0c8547b180fa4fc697616ee7c38a7d7eef6438e8e2db900ff7314b77d",
+      "pages_in_verified_pdf": 3,
+      "references": 12
+    }
+  ]
+}
