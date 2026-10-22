@@ -1,0 +1,42 @@
+# 本地凭据与环境
+.env
+.env.*
+!.env.example
+*.key
+*.p12
+*.mobileprovision
+
+# 运行与参与者数据：受控存储，不进入 Git
+data/private/
+data/raw/
+data/participants/
+data/exports/
+data/runtime/
+recordings/
+runtime/
+secrets/
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# 本机依赖、缓存与构建产物
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
+node_modules/
+.build/
+DerivedData/
+build/
+dist/
+*.xcuserstate
+xcuserdata/
+
+# 大型模型及受限权重
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# 忽略规则是辅助措施；提交前仍需人工检查敏感内容。
